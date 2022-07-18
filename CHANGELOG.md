@@ -1,3 +1,12 @@
+Release v1.44.10-CROC1 (2022-07-18)
+===
+
+### General 
+* Forked from upstream aws-sdk-go v.1.44.10
+### Service client updates
+* C2DEVEL-11853: Создание форка terraform-provider-aws
+* C2DEVEL-11854: Добавление поддержки volume_type st2 в terraform провайдер
+
 Release v1.44.10 (2022-05-09)
 ===
 
